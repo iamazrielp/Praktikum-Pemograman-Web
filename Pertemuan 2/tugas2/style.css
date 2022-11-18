@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #a3a3a3;
+}
+
+#aktivitas {
+  background-color: #a3a3a3;
+}
+
+#about {
+  background-color: #273036;
+}
+
+#jadwal {
+  background-color: #273036;
+}
+
+#contact {
+  padding-bottom: 3rem;
+  background-color: #273036;
+}
+
+footer {
+  font-size: 20px;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #a3a3a3;
+}
